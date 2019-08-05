@@ -1,1 +1,1 @@
-# devs
+# starwars-api
